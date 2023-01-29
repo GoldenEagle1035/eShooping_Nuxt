@@ -1,5 +1,3 @@
-# ezshp
-
 ## Build Setup
 
 ```bash
